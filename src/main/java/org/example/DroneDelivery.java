@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 //import java.util.Scanner;
 
-// Main class containing the main method
+// org.example.Pagination.PaginatedList.Main class containing the main method
 public class DroneDelivery {
   public static void main(String[] args) {
     // Sample data
