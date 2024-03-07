@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d21aa8e5-88c3-4c42-8dd1-40a11ecb1dd2" name="Changes" comment="Pagi">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pagination/IListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pagination/IListManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pagination/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pagination/ListManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pagination/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pagination/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PaginationIvan/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RestaurantOrder/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Store/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Store/IPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Store/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Store/PricePerDozen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Store/PricePerUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Store/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DroneDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DroneDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,26 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DroneDelivery.executor": "Run",
-    "Application.DroneDeliveryOptimization.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyClass.executor": "Run",
-    "Application.Store.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DroneDelivery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DroneDeliveryOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Store.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,6 +75,7 @@
       <workItem from="1708980881844" duration="4598000" />
       <workItem from="1709046579293" duration="795000" />
       <workItem from="1709757571210" duration="1047000" />
+      <workItem from="1709845101838" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="Pagi">
       <option name="closed" value="true" />
