@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21aa8e5-88c3-4c42-8dd1-40a11ecb1dd2" name="Changes" comment="Pagi">
+    <list default="true" id="d21aa8e5-88c3-4c42-8dd1-40a11ecb1dd2" name="Changes" comment="Storing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sorting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Sorting/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,8 @@
       <workItem from="1708980881844" duration="4598000" />
       <workItem from="1709046579293" duration="795000" />
       <workItem from="1709757571210" duration="1047000" />
-      <workItem from="1709845101838" duration="608000" />
+      <workItem from="1709845101838" duration="728000" />
+      <workItem from="1709858574904" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Pagi">
       <option name="closed" value="true" />
@@ -109,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708714803189</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Storing">
+      <option name="closed" value="true" />
+      <created>1709847484537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709847484537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Storing">
+      <option name="closed" value="true" />
+      <created>1709847492853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709847492853</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pagi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pagi" />
+    <MESSAGE value="Storing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Storing" />
   </component>
 </project>
